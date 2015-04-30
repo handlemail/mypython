@@ -1,0 +1,24 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 23, 2015 - 02:58:29
+Django version 1.8, using settings 'dj_site.settings'
+Starting development server at http://localhost:8073/
+Quit the server with CONTROL-C.
+[23/Apr/2015 02:59:36]"GET /index/ HTTP/1.1" 200 118
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 23, 2015 - 02:59:35
+Django version 1.8, using settings 'dj_site.settings'
+Starting development server at http://localhost:8073/
+Quit the server with CONTROL-C.
+[23/Apr/2015 02:59:46]"GET /index/ HTTP/1.1" 200 118
+[23/Apr/2015 02:59:50]"GET / HTTP/1.1" 404 2028
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 23, 2015 - 02:59:44
+Django version 1.8, using settings 'dj_site.settings'
+Starting development server at http://localhost:8073/
+Quit the server with CONTROL-C.
